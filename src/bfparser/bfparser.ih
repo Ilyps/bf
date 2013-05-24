@@ -1,0 +1,6 @@
+#include "bfparser.h"
+
+#include <cstring> // memcpy
+#include <fstream>
+#include <iostream>
+#include "../bfmachine/bfmachine.h"
